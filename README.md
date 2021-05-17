@@ -1,4 +1,4 @@
-#EVENT CALENDAR using ASP.NET MVC
+# EVENT CALENDAR using ASP.NET MVC
 
 For this application, it is benefited from the tutorial at http://www.dotnetawesome.com/2017/06/event-calendar-in-aspnet-mvc.html.
 
